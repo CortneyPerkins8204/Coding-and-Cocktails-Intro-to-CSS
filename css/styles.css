@@ -9,6 +9,9 @@ body{
 .drinks{
     background-color: #612D53
 }
+li{
+    color: white
+}
 nav, 
 footer{
    background-color: #612D53
