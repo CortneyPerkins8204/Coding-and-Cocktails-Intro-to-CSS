@@ -9,7 +9,7 @@ body{
 .drinks{
     background-color: #612D53
 }
-li:hover{
+main li:hover{
     color: white
 }
 nav, 
